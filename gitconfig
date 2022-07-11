@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ej.meyerpark@googlemail.com
+	name = Eunjeong Park
